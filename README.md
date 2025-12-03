@@ -75,6 +75,6 @@ Este projeto foi criado para treinar:
 
 <div align="center">
   
-Feito com ❤️ por Ana Tech
+Feito por Ana Tech
 
 </div>
