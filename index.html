@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Minha Lista de Tarefas</h1>
+        </header>
+        <main>
+            <section id="input-area">
+                <input type="text" id="new-task" placeholder="Adicionar nova tarefa">
+                <button id="add-button">Adicionar</button>
+            </section>
+            <section id="filter-area">
+                <button data-filter="all" class="filter-button active">Todas</button>
+                <button data-filter="completed" class="filter-button">Concluídas</button>
+                <button data-filter="pending" class="filter-button">Pendentes</button>
+            </section>
+            <section id="list-area">
+                <ul id="task-list">
+                    <!-- Tarefas inseridas aqui -->
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <p>Total de tarefas: <span id="total-tasks">0</span> | Concluídas: <span id="completed-tasks">0</span></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
