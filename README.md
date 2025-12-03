@@ -1,42 +1,80 @@
-📝 To-Do List — Lista de Tarefas
+# 📝 To-Do List — Lista de Tarefas
 
-Uma aplicação simples e funcional de Lista de Tarefas, desenvolvida em HTML, CSS e JavaScript puro.
-Permite adicionar tarefas, marcar como concluídas e excluí-las de forma prática e intuitiva.
+Uma aplicação simples e funcional de Lista de Tarefas, desenvolvida com **HTML**, **CSS** e **JavaScript**.
 
-🚀 Funcionalidades
-➕ Adicionar novas tarefas
-✔️ Marcar tarefas como concluídas
-🗑️ Excluir tarefas individualmente
-💾 Salvar tarefas 
-🎨 Interface simples, moderna e responsiva
+</div>
 
-🛠️ Tecnologias Utilizadas
-HTML5 – estrutura da aplicação
-CSS3 – estilização, layout e responsividade
-JavaScript (ES6+) – lógica, manipulação do DOM e armazenamento
+---
 
-📂 Estrutura do Projeto
+## 📦 Sobre o Projeto
+> Uma aplicação prática para criar, concluir e excluir tarefas, com interface simples e responsiva.
+
+---
+
+## 🚀 Funcionalidades
+
+| Função | Descrição |
+|-------|-----------|
+| ➕ **Adicionar tarefas** | Insira novas tarefas rapidamente |
+| ✔️ **Concluir tarefas** | Clique para marcar como feita |
+| 🗑️ **Excluir tarefas** | Remova tarefas individualmente |
+| 💾 **Salvar tarefas** | Mantém tudo salvo no navegador |
+| 🎨 **Interface moderna** | Layout simples, bonito e responsivo |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+HTML5
+CSS3
+JavaScript (ES6+)
+
+yaml
+Copiar código
+
+---
+
+## 📂 Estrutura do Projeto
+
 /project
- ├── index.html
- ├── style.css
- └── script.js
+├── index.html
+├── style.css
+└── script.js
 
-▶️ Como Usar
-Abra o arquivo index.html no navegador.
-Digite uma tarefa no campo de texto.
-Clique em Adicionar (ou pressione Enter).
-Clique sobre uma tarefa para marcá-la como concluída.
-Use o ícone de lixeira para excluir uma tarefa.
+---
 
-📌 Objetivo do Projeto
+## ▶️ Como Usar
+
+1. Abra o arquivo **index.html** no navegador.  
+2. Digite uma tarefa no campo de texto.  
+3. Clique em **Adicionar** ou pressione **Enter**.  
+4. Clique na tarefa para marcá-la como concluída.  
+5. Use o ícone da **lixeira** para excluir.
+
+---
+
+## 🎯 Objetivo do Projeto
+
 Este projeto foi criado para treinar:
-Manipulação do DOM
-Eventos no JavaScript
-Organização e boas práticas de CSS
-Lógica para construção de pequenas aplicações web
 
-👤 Créditos / Autor
-Desenvolvido por: Ana Tech
-GitHub: anatechon
-Instagram: @anatecch
-Contato: anatecch@gmail.com
+- Manipulação do **DOM**  
+- Eventos no **JavaScript**  
+- Organização e boas práticas de **CSS**  
+- Lógica para pequenas aplicações web  
+
+---
+
+## 👤 Autor
+
+**Desenvolvido por:** Ana Tech  
+**GitHub:** `anatechon`  
+**Instagram:** `@anatecch`  
+**Contato:** `anatecch@gmail.com`
+
+---
+
+<div align="center">
+  
+Feito com ❤️ por Ana Tech
+
+</div>
