@@ -1,41 +1,61 @@
 📝 To-Do List — Lista de Tarefas
 
-Este projeto é uma aplicação simples e funcional de To-Do List, criada com HTML, CSS e JavaScript puro, que permite ao usuário adicionar, marcar como concluída e excluir tarefas, eventos em JavaScript e organização visual com CSS.
+Uma aplicação simples e funcional de Lista de Tarefas, desenvolvida em HTML, CSS e JavaScript puro.
+Permite adicionar tarefas, marcar como concluídas e excluí-las de forma prática e intuitiva.
 
-🚀 Funcionalidades:
+🚀 Funcionalidades
+
 ➕ Adicionar novas tarefas
-✔️ Marcar tarefas como concluídas
-🗑️ Excluir tarefas individualmente
-💾 Salvar tarefas
-🎨 Interface simples, responsiva e intuitiva
 
-🛠️ Tecnologias utilizadas:
+✔️ Marcar tarefas como concluídas
+
+🗑️ Excluir tarefas individualmente
+
+💾 Salvar tarefas (caso use LocalStorage)
+
+🎨 Interface simples, moderna e responsiva
+
+🛠️ Tecnologias Utilizadas
+
 HTML5 – estrutura da aplicação
-CSS3 – estilização e layout
+
+CSS3 – estilização, layout e responsividade
+
 JavaScript (ES6+) – lógica, manipulação do DOM e armazenamento
 
-📂 Estrutura de pastas:
+📂 Estrutura do Projeto
 /project
  ├── index.html
  ├── style.css
  └── script.js
 
-▶️ Como usar
-Abra o arquivo index.html no navegador.
-Digite uma tarefa na caixa de texto.
-Clique em Adicionar (ou pressione Enter).
-Clique sobre a tarefa para marcá-la como concluída.
-Utilize o ícone de lixeira para excluí-la.
+▶️ Como Usar
 
-📌 Objetivo do projeto:
+Abra o arquivo index.html no navegador.
+
+Digite uma tarefa no campo de texto.
+
+Clique em Adicionar (ou pressione Enter).
+
+Clique sobre uma tarefa para marcá-la como concluída.
+
+Use o ícone de lixeira para excluir uma tarefa.
+
+📌 Objetivo do Projeto
+
 Este projeto foi criado para treinar:
+
+Manipulação do DOM
+
 Eventos no JavaScript
-Organização de estilos no CSS
-Pensamento lógico e boas práticas de código
-Construção de pequenas aplicações web
+
+Organização e boas práticas de CSS
+
+Lógica para construção de pequenas aplicações web
 
 👤 Créditos / Autor
+
 Desenvolvido por: Ana Tech
 GitHub: anatechon
-Instagram: anatecch
-E-mail para contato: anatecch@gmail.com
+Instagram: @anatecch
+Contato: anatecch@gmail.com
